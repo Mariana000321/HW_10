@@ -1,0 +1,93 @@
+    1  help
+    2  ls
+    3  cd go
+    4  cd..
+    5  ls
+    6  ls
+    7  cd..
+    8  cd~
+    9  cd ~
+   10  cd ~
+   11  goitpractice/
+   12  cd /
+   13  cd c/
+   14  cd Users/
+   15  cd neplo/
+   16  cd goitpractice/
+   17  ls -l
+   18  cd goitpractice/
+   19  clear
+   20  touch file.txt
+   21  ls-l
+   22  vim file.txt
+   23  vim file.txt
+   24  rm test_dir/
+   25  mkdir --help
+   26  rmdir/
+   27  rmdir test_dir/
+   28  mkdir test_dir/
+   29  cpfiel.txt test_dir/
+   30  clear
+   31  cd Test_HW_10
+   32  cd Test_HW_10/
+   33  help
+   34  mkdir Test_HW10
+   35  cd Test_HW10/
+   36  git config
+   37  git config/
+   38  git config --global user.name
+   39  git config --global user.name "Mariana"
+   40  git --help
+   41  git config --global user.name "Mariana Khamuliak"
+   42  git congig --global. user.name
+   43  git config --global user.name 
+   44  git config --user.email Khamuliak87@gmail.com
+   45  clear
+   46  git clone https://github.com/Mariana000321/HW_10.git
+   47  ls -1
+   48  cd HW_10/
+   49  git status
+   50  touch text_ignore.txt
+   51  ls
+   52  nano.gitignore
+   53  nano .gitignore
+   54  cd Test/
+   55  cd Test_HW10/HW_10
+   56  cd HW_10/
+   57  cd Test_HW10/HW_10
+   58  git add.
+   59  git add .
+   60  git commit -m "Додано файл text_ignore.txt до .gitignore"
+   61  git config --global user.name "Mariana000321"
+   62  git config --global user.email "Khamuliak87@gmail.com"
+   63  git commit -m " Файл text_ignore.txt to .gitignore"
+   64  touch main_test.txt
+   65  ls
+   66  git add .
+   67  git status
+   68  git commit -m "Додано порожній файл main_test.txt"
+   69  git checkout -b develop
+   70  git branch
+   71  touch develop_test.txt
+   72  git add .
+   73  git commit -m "develope_text.txt"
+   74  nano develop_test.txt
+   75  git status
+   76  git add
+   77  git add .
+   78  git commit -m ""just a small change" to develop_text.txt"
+   79  git checkout main
+   80  git commit -m "just a small change to develop_test.txt"
+   81  git checkout main
+   82  git merge develop
+   83  git log.
+   84  git log .
+   85  git push origin main
+   86  git push origin main
+   87  git add .
+   88  git status
+   89  git commit -m "Зміни"
+   90  git checkout main
+   91  git push origin main
+   92  command_list.csv
+   93  history>command_list.csv
